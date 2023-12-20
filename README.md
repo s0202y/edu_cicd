@@ -17,7 +17,7 @@
 
 
 
-# 2. 12 Factor 방법론 ( [문서 보기](./cloud-branch/12factors.md) )
+# 2. 12 Factor 방법론 ( [문서 보기](./cloud-branch/12Factors.md) )
 
 - 12 Factor 방법론이란?
 - 왜 12 Factor 방법론을 사용해야 하나?
